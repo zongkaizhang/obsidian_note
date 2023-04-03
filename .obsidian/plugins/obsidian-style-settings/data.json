@@ -1,0 +1,5 @@
+{
+  "blue-topaz-theme@@font-text-theme": "'Meslo LG M for Powerline','Fira Code', var(--font-default)",
+  "blue-topaz-theme@@line-height-split": 1.5,
+  "blue-topaz-theme@@font-size-split": "1.0em"
+}
