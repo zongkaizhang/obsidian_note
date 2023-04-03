@@ -5,7 +5,11 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "RiEdit-fill",
+      "RiArtboard-line",
+      "RiCheckbox-fill"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -14,5 +18,8 @@
       "bottom": 0,
       "left": 0
     }
-  }
+  },
+  "01_PLAN": "RiCheckbox-fill",
+  "02_WORK": "RiArtboard-line",
+  "03_LEARN": "RiEdit-fill"
 }
